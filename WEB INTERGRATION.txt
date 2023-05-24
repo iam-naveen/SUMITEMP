@@ -1,0 +1,40 @@
+welcome,visualization,dashboard,report ,story ,team - these things should be in menu
+
+welcome page
+
+ welcome to olympics analysis
+
+with one pic in side (if possible)
+
+introdution
+     The Olympics is a major international sporting event that takes place every four years. The event brings together athletes from all over the world to compete in various sports and disciplines. The modern Olympic Games were inspired by the ancient Olympic Games, which were held in Olympia, Greece, from the 8th century BC to the 4th century AD.
+The modern Olympics were first organized by Pierre de Coubertin and were held in Athens, Greece, in 1896. Since then, the Olympics have been held regularly, with the exception of a few years during World War I and World War II. The Games alternate between the Summer Olympics and the Winter Olympics, which are held every four years on a staggered schedule.
+ 
+VISUALIZATION
+ some visualizations of olympic analysis
+
+1. COUNTRIES WITH MEDAL COUNT
+<iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.public_folders%2Fproject%2Fno%2Bof%2Bmedals%2Bwon%2Bby%2Bcountries&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018822b0823f_00000001" width="800" height="600" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+
+2.TOP 3 FEMALE WON MOST NO OF MEDALS
+<iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.public_folders%2Fproject%2Fno%2Bof%2Bmedals%2Bwon%2Bby%2Bcountries&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model000001882306e4cb_00000000" width="800" height="600" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+
+3. TOP 10 MALE AND FEMALE WITH MOST NO OF MEDALS
+<iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.public_folders%2Fproject%2Fmale%2Band%2Bfemale%2Bwon%2Bmost%2Bno%2Bof%2Bmedals&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018826fdc55a_00000000" width="800" height="600" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+
+             
+dashboard 
+    <p>Data-Driven insights on Olympic Sports Participation and Performance</p>
+            <p>The dashboard for data-driven insights on Olympic sports participation and performance provides a comprehensive view of relevant data to uncover valuable information. It combines datasets on athletes, sports disciplines, event results, and medal counts to enable analysis and visualization. Through interactive charts, graphs, and maps, the dashboard highlights trends in sports participation over time, compares the performance of countries and athletes across different sports, and tracks the distribution of medals. With real-time or scheduled updates, the dashboard ensures that the insights are always based on the latest available data. It serves as a powerful tool for stakeholders and sports enthusiasts to make data-driven decisions, identify patterns, and gain a deeper understanding of the Olympic Games' sports landscape.</p>  
+
+
+<iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.public_folders%2Fproject%2FNew%2Bdashboard&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018823dd21c7_00000003" width="800" height="600" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+            
+STORY
+
+<iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=story&amp;pathRef=.public_folders%2Fproject%2Folympic%2Bstory&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;sceneId=model00000188271707e6_00000000&amp;sceneTime=0" width="800" height="600" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+
+
+REPORT
+
+ <iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=story&amp;pathRef=.public_folders%2Fproject%2Folympic%2Bstory&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard" width="800" height="600" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>  
